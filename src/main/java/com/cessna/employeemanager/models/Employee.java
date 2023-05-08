@@ -1,4 +1,4 @@
-package com.cessna.employeemanager.model;
+package com.cessna.employeemanager.models;
 
 import jakarta.persistence.*;
 import java.io.Serializable;
